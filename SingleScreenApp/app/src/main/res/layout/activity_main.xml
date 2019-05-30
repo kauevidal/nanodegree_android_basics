@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.singlescreenapp.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:background="@color/colorPrimary"
+        android:fontFamily="cursive"
+        android:gravity="center"
+        android:paddingBottom="10dp"
+        android:text="@string/title"
+        android:textColor="@android:color/white"
+        android:textSize="38sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:contentDescription="@string/image_alt"
+        android:scaleType="centerCrop"
+        android:src="@drawable/empty_image" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:background="@color/colorPrimary"
+        android:fontFamily="cursive"
+        android:gravity="center"
+        android:text="@string/subtitle"
+        android:textColor="@android:color/white"
+        android:textSize="36sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/colorPrimary"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="@string/info"
+        android:textColor="@android:color/white"
+        android:textSize="22sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:autoLink="web"
+        android:background="@color/colorPrimary"
+        android:fontFamily="sans-serif"
+        android:textAlignment="center"
+        android:text="@string/contact_info"
+        android:textColor="@android:color/white"
+        android:textColorLink="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+</LinearLayout>

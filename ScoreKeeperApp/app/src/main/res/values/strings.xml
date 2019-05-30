@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Volleyball Score</string>
+    <string name="default_point_value">0</string>
+    <string name="reset">Reset</string>
+    <string name="default_last_point_value"> </string>
+    <string name="label_last_point">Last point: </string>
+    <string name="add_set">+1 set</string>
+    <string name="add_point">+1 point</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="contact_info">Site: https://www.example.com</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Lorem ipsum dolor sit amet</string>
+    <string name="info">Lorem ipsum dolor sit amet</string>
+    <string name="image_alt">Lorem ipsum dolor</string>
+</resources>
