@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="PlayingNow">Playing Now</string>
+    <string name="Artists">Artists</string>
+    <string name="Library">Library</string>
+    <string name="About">About</string>
+    <string name="Play">Play</string>
+    <string name="Stop">Stop</string>
+    <string name="See">See</string>
+    <string name="Home">Home</string>
+    <string name="app_error">An error occur</string>
+    <string name="search_artist_error">An error occur while searching artist by id</string>
+    <string name="music_name_param">music_name</string>
+    <string name="artist_id_param">artist_id</string>
+    <string name="you_are_listening_label">You are listening: %s</string>
+    <string name="playing_music_msg">%s - %s</string>
+</resources>

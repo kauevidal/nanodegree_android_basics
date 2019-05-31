@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">To Be Review App</string>
+
+    <string name="question_01">1) It ________ a dog.</string>
+    <string name="question_02">2) I _______ a student.</string>
+    <string name="question_03">3) ________ is busy now.</string>
+    <string name="question_04">4) What ________ your name?</string>
+    <string name="question_05">5) We ________ friends.</string>
+    <string name="question_06">6) What time is ________?</string>
+    <string name="question_07">7) This song ________ amazing</string>
+    <string name="question_08">8) That computer _______ new.</string>
+
+    <string name="am">am</string>
+    <string name="is">is</string>
+    <string name="are">are</string>
+    <string name="he">he</string>
+    <string name="she">she</string>
+    <string name="it">it</string>
+    <string name="we">we</string>
+    <string name="max_score_msg">Congrats, you\'ve reached the maximum score!!</string>
+    <string name="default_score_msg">Your final score is:</string>
+    <string name="false_value">false</string>
+    <string name="true_value">true</string>
+    <string name="submit">Submit</string>
+
+</resources>

@@ -1,0 +1,189 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--Question 01-->
+        <TextView
+            style="@style/defaultLocation"
+            android:text="@string/question_01" />
+
+        <EditText
+            android:id="@+id/answer_1"
+            style="@style/editText"
+            android:inputType="text" />
+
+        <View style="@style/line" />
+
+        <!--Question 02-->
+        <TextView
+            style="@style/defaultLocation"
+            android:text="@string/question_02" />
+
+        <RadioGroup
+            android:id="@+id/answer_2"
+            style="@style/defaultLocation">
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/is" />
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/am" />
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/are" />
+        </RadioGroup>
+
+        <View style="@style/line" />
+
+        <!--Question 03-->
+        <TextView
+            style="@style/defaultLocation"
+            android:text="@string/question_03" />
+
+        <CheckBox
+            android:id="@+id/answer_3_a"
+            style="@style/defaultLocation"
+            android:text="@string/we" />
+
+        <CheckBox
+            android:id="@+id/answer_3_b"
+            style="@style/defaultLocation"
+            android:text="@string/it" />
+
+        <CheckBox
+            android:id="@+id/answer_3_c"
+            style="@style/defaultLocation"
+            android:text="@string/he" />
+
+        <CheckBox
+            android:id="@+id/answer_3_d"
+            style="@style/defaultLocation"
+            android:text="@string/she" />
+
+        <View style="@style/line" />
+
+        <!--Question 04-->
+        <TextView
+            style="@style/defaultLocation"
+            android:text="@string/question_04" />
+
+        <RadioGroup
+            android:id="@+id/answer_4"
+            style="@style/defaultLocation">
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/is" />
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/am" />
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/are" />
+        </RadioGroup>
+
+        <View style="@style/line" />
+
+        <!--Question 05-->
+        <TextView
+            style="@style/defaultLocation"
+            android:text="@string/question_05" />
+
+        <RadioGroup
+            android:id="@+id/answer_5"
+            style="@style/defaultLocation">
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/is" />
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/am" />
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/are" />
+        </RadioGroup>
+
+        <View style="@style/line" />
+
+        <!--Question 06-->
+        <TextView
+            style="@style/defaultLocation"
+            android:text="@string/question_06" />
+
+        <EditText
+            android:id="@+id/answer_6"
+            style="@style/defaultLocation"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:inputType="text" />
+
+        <View style="@style/line" />
+
+        <!--Question 07-->
+        <TextView
+            style="@style/defaultLocation"
+            android:text="@string/question_07" />
+
+        <RadioGroup
+            android:id="@+id/answer_7"
+            style="@style/defaultLocation">
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/is" />
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/am" />
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/are" />
+        </RadioGroup>
+
+        <View style="@style/line" />
+
+        <!--Question 08-->
+        <TextView
+            style="@style/defaultLocation"
+            android:text="@string/question_08" />
+
+        <RadioGroup
+            android:id="@+id/answer_8"
+            style="@style/defaultLocation">
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/is" />
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/am" />
+
+            <RadioButton
+                style="@style/defaultLocation"
+                android:text="@string/are" />
+        </RadioGroup>
+
+        <Button
+            style="@style/button"
+            android:onClick="onSubmit"
+            android:text="@string/submit" />
+    </LinearLayout>
+
+</ScrollView>
