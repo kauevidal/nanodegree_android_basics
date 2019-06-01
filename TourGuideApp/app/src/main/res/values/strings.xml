@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="Museum">Museum</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="MovieTheater">Movie Theater</string>
+    <string name="Park">Park</string>
+    <string name="place_image_content_description">place image</string>
+</resources>

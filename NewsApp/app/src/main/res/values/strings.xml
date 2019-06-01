@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="ConnectionError">Can not access the Internet. Verify your internet connection and try again</string>
+    <string name="NoData">No news found. Try again later</string>
+    <string name="settingsTitle">Settings</string>
+    <string name="menuItemSettings">Settings</string>
+    <string name="orderKey">OrderKey</string>
+    <string name="orderDefaultValue">newest</string>
+    <string name="sizeKey">sizeKey</string>
+    <string name="pageDefaultValue">10</string>
+</resources>
