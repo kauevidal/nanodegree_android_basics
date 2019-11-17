@@ -2,16 +2,16 @@
 
 Projects that I developed during the [Udacity](https://www.udacity.com/) Android Basics Nanodegree:
 
-[Single Screen App](https://github.com/kauevidal/nanodegree_android_basics/tree/master/SingleScreenApp)
+[Single Screen App](https://github.com/kauevidal/nanodegree-android-basics/tree/master/SingleScreenApp)
 
-[Score Keeper App](https://github.com/kauevidal/nanodegree_android_basics/tree/master/ScoreKeeperApp/)
+[Score Keeper App](https://github.com/kauevidal/nanodegree-android-basics/tree/master/ScoreKeeperApp/)
 
-[Quiz App](https://github.com/kauevidal/nanodegree_android_basics/tree/master/QuizApp/)
+[Quiz App](https://github.com/kauevidal/nanodegree-android-basics/tree/master/QuizApp/)
 
-[Musical Structure App](https://github.com/kauevidal/nanodegree_android_basics/tree/master/MusicalStructureApp/)
+[Musical Structure App](https://github.com/kauevidal/nanodegree-android-basics/tree/master/MusicalStructureApp/)
 
-[Tour Guide App](https://github.com/kauevidal/nanodegree_android_basics/tree/master/TourGuideApp/)
+[Tour Guide App](https://github.com/kauevidal/nanodegree-android-basics/tree/master/TourGuideApp/)
 
-[News App](https://github.com/kauevidal/nanodegree_android_basics/tree/master/NewsApp/)
+[News App](https://github.com/kauevidal/nanodegree-android-basics/tree/master/NewsApp/)
 
-[Inventory App](https://github.com/kauevidal/nanodegree_android_basics/tree/master/InventoryApp/)
+[Inventory App](https://github.com/kauevidal/nanodegree-android-basics/tree/master/InventoryApp/)
